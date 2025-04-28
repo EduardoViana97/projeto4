@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-    res.send("<h1>Bem-vindo ao Projeto Cloud 2025!</h1>");
+    res.send("<h1>Bem-vindo ao Projeto Cloud 2026!</h1>");
 });
 
 app.get("/contato", (req, res) => {
